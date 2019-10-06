@@ -1,0 +1,14 @@
+{
+  "name": "ms-hackinaday",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "request": "~2.81.0",
+    "math-sqrt": "1.0.1",
+    "integer": "2.1.0"
+  },
+  "devDependencies": {}
+}
